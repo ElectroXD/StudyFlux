@@ -15,6 +15,6 @@
 
 ---
 
-*this is still on beta testing, I might finished it in the mid of 2026*
+*this is still on development, I might finished it in the mid of 2026*
 
 *until, you can follow me on my social media for more updates*
